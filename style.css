@@ -209,6 +209,14 @@ h2 {
   animation: fadeIn 1.5s ease-in; /* Fade-in effect for the demo video */
 }
 
+/* Centering text in the demo section */
+.centered-text {
+  text-align: center;
+  font-size: 1.2em;
+  color: #555;
+  margin-bottom: 20px;
+}
+
 /* Footer */
 footer {
   background-color: #004d40;
